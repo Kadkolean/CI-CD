@@ -1,0 +1,1 @@
+//bu class ci-cd örneği için kullanılmaktadır.
